@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
     <key>hublet</key>
-    <string>na1</string>
+    <string>242473951</string>
     <key>portalId</key>
     <string>43769549</string>
     <key>environment</key>
     <string>prod</string>
     <key>defaultChatFlow</key>
-    <string>support</string>
+    <string>Firmtech</string>
 </dict>
 </plist>
